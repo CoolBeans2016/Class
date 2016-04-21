@@ -6,3 +6,5 @@ def main():
         print(celsius,"C is equal to",fahrenheit,"F")
 
 main()
+
+'''This program is great'''
