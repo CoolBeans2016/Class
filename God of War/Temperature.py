@@ -7,4 +7,3 @@ def main():
 
 main()
 
-'''This program is great'''
