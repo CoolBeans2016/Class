@@ -33,5 +33,4 @@ while(validinput == False):
             print("Invalid input")
             print("You must inter a valid integer")
             print("Number must be between 0, and 5", end='\n')
-
 main()
