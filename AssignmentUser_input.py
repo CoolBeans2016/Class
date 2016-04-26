@@ -25,5 +25,4 @@ def main():
         minNum = a[i]
     print("The minimum number in the list is", maxNum)
     print("The minimum number in the list is", minNum)
-
 main()
