@@ -14,7 +14,6 @@ def getAverage(y):
             firstList.append(testscore)
 
 
-
         lengthofList=len(firstList)
         sum=0
         print("The numbers you entered were:", end=" ")
